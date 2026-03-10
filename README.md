@@ -5,8 +5,8 @@
 <div align="center" style="display:inline-block"> 
   <h1> 💜 Welcome to my profile 💜 </h1> 
   <p> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა </p> 
-  <img src="https://64.media.tumblr.com/4183e6d7da163a87493731c089d68b33/b106357e98a8b070-14/s250x400/1138c697240b67f54b3cfc6538a89acf956bf41c.gif" width="450px">
-  <img src="https://64.media.tumblr.com/4183e6d7da163a87493731c089d68b33/b106357e98a8b070-14/s250x400/1138c697240b67f54b3cfc6538a89acf956bf41c.gif" width="450px">
+  <img src="https://64.media.tumblr.com/4183e6d7da163a87493731c089d68b33/b106357e98a8b070-14/s250x400/1138c697240b67f54b3cfc6538a89acf956bf41c.gif" width="45%">
+  <img src="https://64.media.tumblr.com/4183e6d7da163a87493731c089d68b33/b106357e98a8b070-14/s250x400/1138c697240b67f54b3cfc6538a89acf956bf41c.gif" width="45%">
 </div> 
 
 # 🖤 About me 
