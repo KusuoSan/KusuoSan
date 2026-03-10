@@ -45,8 +45,7 @@
 <p align="center"> 💜 Obrigado por visitar meu perfil 💜 </p> 
 <div style="display:inline-block" align="center"> 
         <img src="https://www.gifcen.com/wp-content/uploads/2025/02/kuromi-gif-6.gif" width="20%"/>
-  <img src="https://kuromi.co.uk/wp-content/uploads/2024/07/cute-kuromi-gif.gif" width="20%"/> 
-  <img src="https://img1.picmix.com/output/stamp/normal/8/5/7/3/2663758_a7c61.gif" height="40%"/> 
+  <img src="https://kuromi.co.uk/wp-content/uploads/2024/07/cute-kuromi-gif.gif" width="20%"/>
 </div> 
 
 <details align="center">  
