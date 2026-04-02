@@ -51,11 +51,3 @@
   <img src="https://kuromi.co.uk/wp-content/uploads/2024/07/cute-kuromi-gif.gif" width="20%"/>
 </div> 
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
